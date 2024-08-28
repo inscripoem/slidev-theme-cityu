@@ -34,7 +34,7 @@
   h4,
   h5,
   h6 {
-    @apply font-bold font-title bg-clip-text text-transparent bg-gradient-to-r from-fuchsia-700 to-purple-800 dark:(from-white to-purple-50);
+    @apply p-1 font-bold font-title bg-clip-text text-transparent bg-gradient-to-r from-rose-700 to-pink-800 dark:(from-white to-pink-50);
   }
 
   h1 {
@@ -54,7 +54,7 @@
   }
 
   strong {
-    @apply text-purple-800 dark:text-purple-100;
+    @apply text-pink-800 dark:text-pink-100;
   }
 
   h1 + p {
